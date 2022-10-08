@@ -35,7 +35,7 @@ main{
     position: relative;
     top: 50%;
     
-    border-radius: 15px;
+    border-radius: 19px;
 
     box-shadow: 1px 1px 2rem rgb(117, 117, 117);
 }
@@ -60,6 +60,7 @@ main{
     font-size: 15px;
     margin: 10px;
     color: hsl(220, 15%, 55%);
+    margin-bottom: 30px;
 }
 
 main .attribution {
